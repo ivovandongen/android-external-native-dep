@@ -1,0 +1,2 @@
+include ':app', ':lib'
+project(':lib').projectDir = file('../library/lib')
